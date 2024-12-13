@@ -68,7 +68,7 @@
 
 5. Открыть скрипт:
 
-    [вот этот файл](/3.Load%20web/sqript.txt)
+    [вот этот файл](https://github.com/YULLEN1/Load_testing_3/blob/main/script.txt)
 
 6. Скопировать данные из скрипта и снова вставить в окно SQL (предыдущий скрпт удалите)
 
